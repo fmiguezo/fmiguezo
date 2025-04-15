@@ -64,8 +64,7 @@
   - Sales Cloud Consultant
   - Platform Developer I
   - Advanced Admin
-
----
+    
 
 ## 🏆 Other Certifications
 
