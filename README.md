@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi there! 👋 I'm Florencia
 
-<!--
-**fmiguezo/fmiguezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a programming student and consultant with experience in SaaS implementation and integration. I'm passionate about technology, continuous learning, and helping businesses improve their processes through smart solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Tools
+
+### ☁️ Salesforce
+- Salesforce Certified Administrator
+- Salesforce AI Associate
+- Salesforce Data Cloud
+- Salesforce CRM Analytics
+- Spiff (implementation & integration)
+- Apex
+- SOQL / SOSL
+- Lightning Web Components (LWC)
+
+
+### 💻 Programming Languages
+- Python
+- Java
+- JavaScript/TypeScript
+- C/C++
+
+### 🌐 Web Development & Frontend
+- HTML5 / CSS3
+- JavaScript
+- React
+- Lightning Web Components (LWC)
+- Figma
+- UX/UI Design
+
+### 🧱 Architecture & Design
+- SOLID Principles
+- Software Architectural Patterns (Client-Server, Microservices, Modular Monolith)
+- Software Design Patterns (Builder Factory, Singleton, Observer, etc.)
+
+### 🛠️ Tools & Platforms
+- Git & GitHub
+- Postman (REST APIs)
+- VSCode, IntelliJ
+- Jira, Trello
+- Workato
+
+---
+
+## 📚 Currently Learning
+
+- MongoDB
+- Software Architecture
+- Salesforce Development (APEX, SOQL, SAQL, etc)
+
+---
+
+## 🏆 Salesforce Certifications
+
+- ✅ Salesforce Certified Administrator
+- ✅ Salesforce AI Associate
+- ⏳ In Progress:
+  - Platform App Builder
+  - Data Cloud Consultant
+  - Sales Cloud Consultant
+  - Platform Developer I
+  - Advanced Admin
+
+---
+
+## 📈 GitHub Stats
+
+![fmiguezo GitHub stats](https://github-readme-stats.vercel.app/api?username=fmiguezo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmiguezo&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/fmiguezo)
+- 📧 fmiguezo@proton.me
+
+---
+
+## 📚 Education Details
+
+- Completed 2 out of 3 years of my associate degree in Programming and Information Systems.
+
+---
+
+> "Learning is not about collecting knowledge, it's about transformation."
