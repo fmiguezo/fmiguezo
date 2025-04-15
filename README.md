@@ -48,7 +48,7 @@
 ## 📚 Currently Learning
 
 - MongoDB
-- Software Architecture
+- Software Architecture (Clean Architecture, Hexagonal Architecture, etc)
 - Salesforce Development (APEX, SOQL, SAQL, etc)
 
 ---
