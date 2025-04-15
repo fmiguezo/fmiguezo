@@ -83,6 +83,8 @@
 ## 📚 Education Details
 
 - Completed 2 out of 3 years of my associate degree in Programming and Information Systems.
+- ⭐⭐ **Double Star Ranger** ⭐⭐ status on Trailhead: [Trailhead Profile](https://trailhead.salesforce.com/en/me/fmiguezo)
+
 
 ---
 
