@@ -42,6 +42,7 @@
 - VSCode, IntelliJ
 - Jira, Trello
 - Workato
+- Azure
 
 ---
 
@@ -63,6 +64,12 @@
   - Sales Cloud Consultant
   - Platform Developer I
   - Advanced Admin
+
+---
+
+## 🏆 Other Certifications
+
+- ✅ Microsoft Certified: Azure Fundamentals
 
 ---
 
