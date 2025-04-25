@@ -60,10 +60,7 @@
 - ✅ Salesforce AI Associate
 - ⏳ In Progress:
   - Platform App Builder
-  - Data Cloud Consultant
-  - Sales Cloud Consultant
   - Platform Developer I
-  - Advanced Admin
     
 
 ## 🏆 Other Certifications
@@ -82,7 +79,6 @@
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/fmiguezo)
-- 📧 fmiguezo@proton.me
 
 ---
 
