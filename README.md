@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Florencia
 
-🎓 I'm a programming student and consultant with experience in SaaS implementation and integration. I'm passionate about technology, continuous learning, and helping businesses improve their processes through smart solutions.
+🎓 I'm a Solution Consultant and a programming student with experience in SaaS implementation and integration. I'm passionate about technology, continuous learning, and helping businesses improve their processes through smart solutions.
 
 ---
 
@@ -11,7 +11,7 @@
 - Salesforce AI Associate
 - Salesforce Data Cloud
 - Salesforce CRM Analytics
-- Spiff (implementation & integration)
+- Spiff (Implementation & Integration)
 - Apex
 - SOQL / SOSL
 - Lightning Web Components (LWC)
@@ -49,8 +49,8 @@
 ## 📚 Currently Learning
 
 - MongoDB
-- Software Architecture (Clean Architecture, Hexagonal Architecture, etc)
-- Salesforce Development (APEX, SOQL, SAQL, etc)
+- Software Architecture (Clean Architecture, Hexagonal Architecture)
+- Salesforce Development (APEX, SOSL, SOQL, SAQL, etc)
 
 ---
 
