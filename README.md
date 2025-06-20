@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Florencia
+# Hi there! 👋 I'm Flor
 
 🎓 I'm a Solution Consultant and a programming student with experience in SaaS implementation and integration. I'm passionate about technology, continuous learning, and helping businesses improve their processes through smart solutions.
 
