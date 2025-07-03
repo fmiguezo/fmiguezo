@@ -33,7 +33,7 @@
 
 ### 🧱 Architecture & Design
 - SOLID Principles
-- Software Architectural Patterns (Client-Server, Microservices, Modular Monolith)
+- Software Architectural Patterns (Hexagonal Architecture, Client-Server, Microservices, Modular Monolith)
 - Software Design Patterns (Builder Factory, Singleton, Observer, etc.)
 
 ### 🛠️ Tools & Platforms
@@ -48,9 +48,9 @@
 
 ## 📚 Currently Learning
 
-- MongoDB
-- Software Architecture (Clean Architecture, Hexagonal Architecture)
-- Salesforce Development (APEX, SOSL, SOQL, SAQL, etc)
+- MongoDB, Redis, Neo4j
+- Software Architecture (Clean Architecture)
+- Salesforce Development & Analytics (APEX, SOSL, SOQL, SAQL, etc)
 
 ---
 
@@ -84,7 +84,7 @@
 
 ## 📚 Education Details
 
-- Completed 2 out of 3 years of my associate degree in Programming and Information Systems.
+- Completed 5 out of 6 semesters of my associate degree in Programming and Information Systems.
 - ⭐⭐ **Double Star Ranger** ⭐⭐ status on Trailhead: [Trailhead Profile](https://trailhead.salesforce.com/en/me/fmiguezo)
 
 
