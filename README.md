@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Flor
 
-🎓 I'm a Solution Consultant and Salesforce Product Owner with experience in SaaS implementation and integration. I'm passionate about technology, continuous learning, and helping businesses improve their processes through smart solutions. I'm currently pursuing a degree in Programming / Information Systems @ UTN FRBA. 
+I'm a Solution Consultant and Salesforce Product Owner with experience in SaaS implementation and integration. I'm passionate about technology, continuous learning, and helping businesses improve their processes through smart solutions. I'm currently pursuing a degree in Programming / Information Systems @ UTN FRBA. 🎓 
 
 ---
 
