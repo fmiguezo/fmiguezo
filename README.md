@@ -84,8 +84,8 @@ I'm a Solution Consultant and Salesforce Product Owner with experience in SaaS i
 
 ## 📚 Education Details
 
-- Completed 5 out of 6 semesters of my associate degree in Programming and Information Systems.
-- ⭐⭐ **Double Star Ranger** ⭐⭐ status on Trailhead: [Trailhead Profile](https://trailhead.salesforce.com/en/me/fmiguezo)
+- Degree in Programming and Information Systems.
+- ⭐⭐⭐ **Triple Star Ranger** ⭐⭐⭐ status on Trailhead: [Trailhead Profile](https://trailhead.salesforce.com/en/me/fmiguezo)
 
 
 ---
