@@ -57,6 +57,7 @@ I'm a Solution Consultant and Salesforce Product Owner with experience in SaaS i
 ## 🏆 Salesforce Certifications
 
 - ✅ Salesforce Certified Administrator
+- ✅ Salesforce Certified Agentforce Specialist
 - ✅ Salesforce AI Associate
 - ⏳ In Progress:
   - Platform App Builder
