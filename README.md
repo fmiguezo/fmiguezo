@@ -70,13 +70,6 @@ I'm a Solution Consultant and Salesforce Product Owner with experience in SaaS i
 
 ---
 
-## 📈 GitHub Stats
-
-![fmiguezo GitHub stats](https://github-readme-stats.vercel.app/api?username=fmiguezo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmiguezo&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/fmiguezo)
