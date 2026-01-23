@@ -7,8 +7,8 @@ I'm a Solution Consultant and Salesforce Product Owner with experience in SaaS i
 ## 🧠 Skills & Tools
 
 ### ☁️ Salesforce
-- Salesforce Certified Administrator
-- Salesforce AI Associate
+- Salesforce Platform
+- Salesforce Agentforce
 - Salesforce Data Cloud
 - Salesforce CRM Analytics
 - Spiff (Implementation & Integration)
