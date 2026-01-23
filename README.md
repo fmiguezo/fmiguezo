@@ -57,16 +57,23 @@ I'm a Solution Consultant and Salesforce Product Owner with experience in SaaS i
 ## 🏆 Salesforce Certifications
 
 - ✅ Salesforce Certified Administrator
+- ✅ Salesforce Certified App Builder
 - ✅ Salesforce Certified Agentforce Specialist
 - ✅ Salesforce AI Associate
 - ⏳ In Progress:
-  - Platform App Builder
-  - Platform Developer I
+  - Salesforce Platform Developer I
+  - Salesforce Sales Cloud Consultant
+  - Salesforce Data Cloud Consultant
     
 
 ## 🏆 Other Certifications
 
 - ✅ Microsoft Certified: Azure Fundamentals
+- ✅ Workato Automation Pro I
+- ✅ Workato Automation Pro II
+- ✅ Spiff Designer Level I (aquired by Salesforce)
+- ✅ Spiff Designer Level II (aquired by Salesforce)
+- ✅ Spiff Partner Capstone (aquired by Salesforce)
 
 ---
 
