@@ -49,9 +49,7 @@ I'm a Solution Consultant with experience in SaaS implementation and integration
 
 ## 📚 Currently Learning
 
-- MongoDB, Redis, Neo4j
-- Software Architecture (Clean Architecture)
-- Salesforce Development & Analytics (APEX, SOSL, SOQL, SAQL, etc)
+- Salesforce Development & Analytics (APEX, SOSL, SOQL, SAQL)
 
 ---
 
