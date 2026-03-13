@@ -37,7 +37,7 @@ I'm a Solution Consultant with experience in SaaS implementation and integration
 - Software Architectural Patterns (Hexagonal Architecture, Client-Server, Microservices, Modular Monolith)
 - Software Design Patterns (Builder Factory, Singleton, Observer, etc.)
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools, Platforms & Middleware
 - Git & GitHub
 - Postman (REST APIs)
 - VSCode, IntelliJ
@@ -56,18 +56,16 @@ I'm a Solution Consultant with experience in SaaS implementation and integration
 ## 🏆 Salesforce Certifications
 
 - ✅ Salesforce Certified Platform Administrator
+- ✅ Salesforce Certified Platform Administrator II
 - ✅ Salesforce Certified Platform App Builder
 - ✅ Salesforce Certified Sales Cloud Consultant
 - ✅ Salesforce Certified Agentforce Specialist
 - ✅ Salesforce Certified AI Associate
 - ⏳ In Progress:
-  - Saleforce Platform Administrator II
+  - Salesforce Data Cloud Consultant
   - Salesforce Service Cloud Consultant
   - Salesforce Experience Cloud Consultant
-  - Salesforce Data Cloud Consultant
   - Salesforce Platform Developer I
-  
-  
     
 
 ## 🏆 Other Certifications
