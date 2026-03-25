@@ -55,14 +55,14 @@ I'm a Solution Consultant with experience in SaaS implementation and integration
 
 ## 🏆 Salesforce Certifications
 
+- ✅ Salesforce Certified Data Cloud Consultant
+- ✅ Salesforce Certified Sales Cloud Consultant
 - ✅ Salesforce Certified Platform Administrator
 - ✅ Salesforce Certified Platform Administrator II
 - ✅ Salesforce Certified Platform App Builder
-- ✅ Salesforce Certified Sales Cloud Consultant
 - ✅ Salesforce Certified Agentforce Specialist
 - ✅ Salesforce Certified AI Associate
 - ⏳ In Progress:
-  - Salesforce Data Cloud Consultant
   - Salesforce Service Cloud Consultant
   - Salesforce Experience Cloud Consultant
   - Salesforce Platform Developer I
