@@ -53,7 +53,7 @@ I'm a Solution Consultant with experience in SaaS implementation and integration
 
 ---
 
-## 🏆 Salesforce Certifications
+## 🏆 Salesforce Certifications (x7)
 
 - ✅ Salesforce Certified Data Cloud Consultant
 - ✅ Salesforce Certified Sales Cloud Consultant
