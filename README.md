@@ -88,7 +88,7 @@ I'm a Solution Consultant with experience in SaaS implementation and integration
 ## 📚 Education Details
 
 - Degree in Programming and Information Systems.
-- ⭐⭐⭐ **Triple Star Ranger** ⭐⭐⭐ status on Trailhead: [Trailhead Profile](https://trailhead.salesforce.com/en/me/fmiguezo)
+- **Four Star Ranger** ⭐⭐⭐⭐ status on Trailhead: [Trailhead Profile](https://trailhead.salesforce.com/en/me/fmiguezo)
 
 
 ---
