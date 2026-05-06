@@ -7,11 +7,11 @@ I'm a Solution Consultant with experience in SaaS implementation and integration
 ## 🧠 Skills & Tools
 
 ### ☁️ Salesforce
-- Salesforce Platform
-- Salesforce Agentforce
-- Salesforce Sales Cloud
-- Salesforce Data Cloud
-- Salesforce CRM Analytics
+- Platform
+- Agentforce
+- Core CRM (Sales Cloud, Service Cloud)
+- Data Cloud + Agentforce
+- CRM Analytics
 - Spiff (Implementation & Integration)
 - Apex
 - SOQL / SOSL
@@ -53,17 +53,16 @@ I'm a Solution Consultant with experience in SaaS implementation and integration
 
 ---
 
-## 🏆 Salesforce Certifications (7x)
-
+## 🏆 Salesforce Certifications (8x)
 - ✅ Salesforce Certified Data Cloud Consultant
 - ✅ Salesforce Certified Sales Cloud Consultant
+- ✅Salesforce Certified Service Cloud Consultant
 - ✅ Salesforce Certified Platform Administrator
 - ✅ Salesforce Certified Platform Administrator II
 - ✅ Salesforce Certified Platform App Builder
 - ✅ Salesforce Certified Agentforce Specialist
 - ✅ Salesforce Certified AI Associate
 - ⏳ In Progress:
-  - Salesforce Service Cloud Consultant
   - Salesforce Experience Cloud Consultant
   - Salesforce Platform Developer I
     
